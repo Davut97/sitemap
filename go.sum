@@ -1,0 +1,4 @@
+github.com/Davut97/link v0.0.0-20240318202130-6fe1a15671b3 h1:rDkzsZBMnGC/Fs0PL+q2von2S13AgPQ4fmZDGiyCgf4=
+github.com/Davut97/link v0.0.0-20240318202130-6fe1a15671b3/go.mod h1:8DNCdniVHvOcoyOw3h4m+I+ZCcAHaph9t7Wb+5cRE5M=
+golang.org/x/net v0.22.0 h1:9sGLhx7iRIHEiX0oAJ3MRZMUCElJgy7Br1nO+AMN3Tc=
+golang.org/x/net v0.22.0/go.mod h1:JKghWKKOSdJwpW2GEx0Ja7fmaKnMsbu+MWVZTokSYmg=
